@@ -434,3 +434,10 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
+combos:
+- p: [31, 32]
+  k: $$mdi:mouse-left-click-outline$$
+- p: [32, 33]
+  k: $$mdi:mouse-right-click-outline$$
+- p: [31, 33]
+  k: $$mdi:mouse-scroll-wheel$$

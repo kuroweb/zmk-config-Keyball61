@@ -600,6 +600,20 @@ rect.held, rect.combo.held {
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key"/>
 <use href="#mdi:backspace-reverse-outline" xlink:href="#mdi:backspace-reverse-outline" x="-9" y="-13" height="18" width="18.0" class="key tap glyph mdi:backspace-reverse-outline"/>
 </g>
+<g class="combo combopos-0">
+<rect rx="6" ry="6" x="658" y="134" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-left-click-outline" xlink:href="#mdi:mouse-left-click-outline" x="663" y="138" height="18" width="18.0" class="combo tap glyph mdi:mouse-left-click-outline"/>
+</g>
+<g class="combo combopos-1">
+<rect rx="6" ry="6" x="714" y="134" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-right-click-outline" xlink:href="#mdi:mouse-right-click-outline" x="719" y="138" height="18" width="18.0" class="combo tap glyph mdi:mouse-right-click-outline"/>
+</g>
+<g class="combo combopos-2">
+<path d="M700,154 l-37,0" class="combo"/>
+<path d="M700,154 l37,0" class="combo"/>
+<rect rx="6" ry="6" x="686" y="141" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-scroll-wheel" xlink:href="#mdi:mouse-scroll-wheel" x="691" y="145" height="18" width="18.0" class="combo tap glyph mdi:mouse-scroll-wheel"/>
+</g>
 </g>
 </g>
 <g transform="translate(40, 398)" class="layer-NUM">
@@ -920,6 +934,20 @@ rect.held, rect.combo.held {
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key trans"/>
 <use href="#mdi:transfer" xlink:href="#mdi:transfer" x="-9" y="-13" height="18" width="18.0" class="key trans tap glyph mdi:transfer"/>
 </g>
+<g class="combo combopos-0">
+<rect rx="6" ry="6" x="658" y="134" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-left-click-outline" xlink:href="#mdi:mouse-left-click-outline" x="663" y="138" height="18" width="18.0" class="combo tap glyph mdi:mouse-left-click-outline"/>
+</g>
+<g class="combo combopos-1">
+<rect rx="6" ry="6" x="714" y="134" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-right-click-outline" xlink:href="#mdi:mouse-right-click-outline" x="719" y="138" height="18" width="18.0" class="combo tap glyph mdi:mouse-right-click-outline"/>
+</g>
+<g class="combo combopos-2">
+<path d="M700,154 l-37,0" class="combo"/>
+<path d="M700,154 l37,0" class="combo"/>
+<rect rx="6" ry="6" x="686" y="141" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-scroll-wheel" xlink:href="#mdi:mouse-scroll-wheel" x="691" y="145" height="18" width="18.0" class="combo tap glyph mdi:mouse-scroll-wheel"/>
+</g>
 </g>
 </g>
 <g transform="translate(40, 796)" class="layer-SYM">
@@ -1236,6 +1264,20 @@ rect.held, rect.combo.held {
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key trans"/>
 <use href="#mdi:transfer" xlink:href="#mdi:transfer" x="-9" y="-13" height="18" width="18.0" class="key trans tap glyph mdi:transfer"/>
 </g>
+<g class="combo combopos-0">
+<rect rx="6" ry="6" x="658" y="134" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-left-click-outline" xlink:href="#mdi:mouse-left-click-outline" x="663" y="138" height="18" width="18.0" class="combo tap glyph mdi:mouse-left-click-outline"/>
+</g>
+<g class="combo combopos-1">
+<rect rx="6" ry="6" x="714" y="134" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-right-click-outline" xlink:href="#mdi:mouse-right-click-outline" x="719" y="138" height="18" width="18.0" class="combo tap glyph mdi:mouse-right-click-outline"/>
+</g>
+<g class="combo combopos-2">
+<path d="M700,154 l-37,0" class="combo"/>
+<path d="M700,154 l37,0" class="combo"/>
+<rect rx="6" ry="6" x="686" y="141" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-scroll-wheel" xlink:href="#mdi:mouse-scroll-wheel" x="691" y="145" height="18" width="18.0" class="combo tap glyph mdi:mouse-scroll-wheel"/>
+</g>
 </g>
 </g>
 <g transform="translate(40, 1195)" class="layer-FUN">
@@ -1545,6 +1587,20 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans side"/>
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key trans"/>
 <use href="#mdi:transfer" xlink:href="#mdi:transfer" x="-9" y="-13" height="18" width="18.0" class="key trans tap glyph mdi:transfer"/>
+</g>
+<g class="combo combopos-0">
+<rect rx="6" ry="6" x="658" y="134" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-left-click-outline" xlink:href="#mdi:mouse-left-click-outline" x="663" y="138" height="18" width="18.0" class="combo tap glyph mdi:mouse-left-click-outline"/>
+</g>
+<g class="combo combopos-1">
+<rect rx="6" ry="6" x="714" y="134" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-right-click-outline" xlink:href="#mdi:mouse-right-click-outline" x="719" y="138" height="18" width="18.0" class="combo tap glyph mdi:mouse-right-click-outline"/>
+</g>
+<g class="combo combopos-2">
+<path d="M700,154 l-37,0" class="combo"/>
+<path d="M700,154 l37,0" class="combo"/>
+<rect rx="6" ry="6" x="686" y="141" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-scroll-wheel" xlink:href="#mdi:mouse-scroll-wheel" x="691" y="145" height="18" width="18.0" class="combo tap glyph mdi:mouse-scroll-wheel"/>
 </g>
 </g>
 </g>
@@ -1856,6 +1912,20 @@ rect.held, rect.combo.held {
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key trans"/>
 <use href="#mdi:transfer" xlink:href="#mdi:transfer" x="-9" y="-13" height="18" width="18.0" class="key trans tap glyph mdi:transfer"/>
 </g>
+<g class="combo combopos-0">
+<rect rx="6" ry="6" x="658" y="134" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-left-click-outline" xlink:href="#mdi:mouse-left-click-outline" x="663" y="138" height="18" width="18.0" class="combo tap glyph mdi:mouse-left-click-outline"/>
+</g>
+<g class="combo combopos-1">
+<rect rx="6" ry="6" x="714" y="134" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-right-click-outline" xlink:href="#mdi:mouse-right-click-outline" x="719" y="138" height="18" width="18.0" class="combo tap glyph mdi:mouse-right-click-outline"/>
+</g>
+<g class="combo combopos-2">
+<path d="M700,154 l-37,0" class="combo"/>
+<path d="M700,154 l37,0" class="combo"/>
+<rect rx="6" ry="6" x="686" y="141" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-scroll-wheel" xlink:href="#mdi:mouse-scroll-wheel" x="691" y="145" height="18" width="18.0" class="combo tap glyph mdi:mouse-scroll-wheel"/>
+</g>
 </g>
 </g>
 <g transform="translate(40, 1991)" class="layer-SCROLL">
@@ -2165,6 +2235,20 @@ rect.held, rect.combo.held {
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key trans"/>
 <use href="#mdi:transfer" xlink:href="#mdi:transfer" x="-9" y="-13" height="18" width="18.0" class="key trans tap glyph mdi:transfer"/>
 </g>
+<g class="combo combopos-0">
+<rect rx="6" ry="6" x="658" y="134" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-left-click-outline" xlink:href="#mdi:mouse-left-click-outline" x="663" y="138" height="18" width="18.0" class="combo tap glyph mdi:mouse-left-click-outline"/>
+</g>
+<g class="combo combopos-1">
+<rect rx="6" ry="6" x="714" y="134" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-right-click-outline" xlink:href="#mdi:mouse-right-click-outline" x="719" y="138" height="18" width="18.0" class="combo tap glyph mdi:mouse-right-click-outline"/>
+</g>
+<g class="combo combopos-2">
+<path d="M700,154 l-37,0" class="combo"/>
+<path d="M700,154 l37,0" class="combo"/>
+<rect rx="6" ry="6" x="686" y="141" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-scroll-wheel" xlink:href="#mdi:mouse-scroll-wheel" x="691" y="145" height="18" width="18.0" class="combo tap glyph mdi:mouse-scroll-wheel"/>
+</g>
 </g>
 </g>
 <g transform="translate(40, 2389)" class="layer-SNIPE">
@@ -2473,6 +2557,20 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans side"/>
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key trans"/>
 <use href="#mdi:transfer" xlink:href="#mdi:transfer" x="-9" y="-13" height="18" width="18.0" class="key trans tap glyph mdi:transfer"/>
+</g>
+<g class="combo combopos-0">
+<rect rx="6" ry="6" x="658" y="134" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-left-click-outline" xlink:href="#mdi:mouse-left-click-outline" x="663" y="138" height="18" width="18.0" class="combo tap glyph mdi:mouse-left-click-outline"/>
+</g>
+<g class="combo combopos-1">
+<rect rx="6" ry="6" x="714" y="134" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-right-click-outline" xlink:href="#mdi:mouse-right-click-outline" x="719" y="138" height="18" width="18.0" class="combo tap glyph mdi:mouse-right-click-outline"/>
+</g>
+<g class="combo combopos-2">
+<path d="M700,154 l-37,0" class="combo"/>
+<path d="M700,154 l37,0" class="combo"/>
+<rect rx="6" ry="6" x="686" y="141" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-scroll-wheel" xlink:href="#mdi:mouse-scroll-wheel" x="691" y="145" height="18" width="18.0" class="combo tap glyph mdi:mouse-scroll-wheel"/>
 </g>
 </g>
 </g>
