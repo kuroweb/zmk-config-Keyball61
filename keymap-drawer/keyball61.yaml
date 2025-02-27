@@ -442,8 +442,8 @@ combos:
 - p: [31, 33]
   k: $$mdi:mouse-scroll-wheel$$
 - p: [45, 46]
-  k: '&mkp MB1'
+  k: '&mkp MB4'
 - p: [46, 47]
-  k: '&mkp MB2'
+  k: '&mkp MB5'
 - p: [45, 47]
   k: SCROLL
