@@ -43,13 +43,13 @@
             key-positions = <31 33>;
         };
 
-        mouse_back {
-            bindings = <&mkp MB1>;
+        mouse_priv {
+            bindings = <&mkp MB4>;
             key-positions = <45 46>;
         };
 
         mouse_next {
-            bindings = <&mkp MB2>;
+            bindings = <&mkp MB5>;
             key-positions = <46 47>;
         };
 
