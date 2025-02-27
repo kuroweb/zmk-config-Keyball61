@@ -56,10 +56,10 @@ layers:
   - $$mdi:apple-keyboard-option$$
   - LEFT WIN
   - SCROLL
-  - MOUSE
+  - {t: '$$mdi:keyboard-space$$', h: MOUSE}
   - $$mdi:keyboard-space$$
   - $$mdi:keyboard-space$$
-  - FUN
+  - {t: '$$mdi:keyboard-space$$', h: FUN}
   - $$mdi:apple-keyboard-option$$
   - $$mdi:backspace-reverse-outline$$
   NUM:
