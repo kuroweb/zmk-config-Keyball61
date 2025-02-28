@@ -356,9 +356,9 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - '&mkp MB4'
+  - {t: '&mkp MB4', type: held alternate}
   - {t: '$$mdi:transfer$$', type: trans}
-  - '&mkp MB5'
+  - {t: '&mkp MB5', type: held alternate}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -434,3 +434,12 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
+combos:
+- p: [45, 46]
+  k: $$mdi:mouse-left-click-outline$$
+- p: [46, 47]
+  k: $$mdi:mouse-right-click-outline$$
+- p: [45, 47, 46]
+  k: $$mdi:mouse-scroll-wheel$$
+- p: [45, 47]
+  k: SCROLL
