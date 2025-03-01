@@ -103,7 +103,7 @@
 &trans  &trans  &trans  &trans  &trans  &trans                                &kp F11  &kp F12         &kp UP_ARROW    &trans           &kp MINUS         &kp EQUAL
 &trans  &trans  &trans  &trans  &trans  &kp C_VOLUME_UP                       &trans   &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp LEFT_BRACKET  &kp RIGHT_BRACKET
 &trans  &trans  &trans  &trans  &trans  &kp C_VOLUME_DOWN  &trans  &kp GRAVE  &trans   &trans          &trans          &trans           &trans            &trans
-&trans  &trans  &trans  &trans  &trans  &trans             &trans  &trans     &trans                                                    &trans            &trans
+&trans  &trans  &trans  &trans  &trans  &mkp RCLK          &trans  &trans     &trans                                                    &trans            &trans
             >;
         };
 
