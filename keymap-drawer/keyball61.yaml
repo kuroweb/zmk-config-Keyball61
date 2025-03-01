@@ -443,3 +443,7 @@ combos:
   k: $$mdi:mouse-scroll-wheel$$
 - p: [45, 47]
   k: SCROLL
+- p: [43, 44, 45]
+  k: '&mkp MB4'
+- p: [44, 45, 46]
+  k: '&mkp MB5'
