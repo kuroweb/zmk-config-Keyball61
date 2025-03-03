@@ -436,14 +436,8 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
 combos:
 - p: [45, 46]
-  k: $$mdi:mouse-left-click-outline$$
+  k: '&mkp MB4'
 - p: [46, 47]
-  k: $$mdi:mouse-right-click-outline$$
-- p: [45, 47, 46]
-  k: $$mdi:mouse-scroll-wheel$$
+  k: '&mkp MB5'
 - p: [45, 47]
   k: SCROLL
-- p: [43, 44, 45]
-  k: '&mkp MB4'
-- p: [44, 45, 46]
-  k: '&mkp MB5'

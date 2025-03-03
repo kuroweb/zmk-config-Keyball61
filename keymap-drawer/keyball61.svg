@@ -594,41 +594,23 @@ rect.held, rect.combo.held {
 </g>
 <g class="combo combopos-0">
 <rect rx="6" ry="6" x="658" y="190" width="28" height="26" class="combo"/>
-<use href="#mdi:mouse-left-click-outline" xlink:href="#mdi:mouse-left-click-outline" x="663" y="194" height="18" width="18.0" class="combo tap glyph mdi:mouse-left-click-outline"/>
+<text x="672" y="203" class="combo tap">
+<tspan x="672" dy="-0.6em">&amp;mkp</tspan><tspan x="672" dy="1.2em">MB4</tspan>
+</text>
 </g>
 <g class="combo combopos-1">
 <rect rx="6" ry="6" x="714" y="190" width="28" height="26" class="combo"/>
-<use href="#mdi:mouse-right-click-outline" xlink:href="#mdi:mouse-right-click-outline" x="719" y="194" height="18" width="18.0" class="combo tap glyph mdi:mouse-right-click-outline"/>
+<text x="728" y="203" class="combo tap">
+<tspan x="728" dy="-0.6em">&amp;mkp</tspan><tspan x="728" dy="1.2em">MB5</tspan>
+</text>
 </g>
 <g class="combo combopos-2">
-<path d="M700,205 l-37,3" class="combo"/>
-<path d="M700,205 l37,3" class="combo"/>
-<rect rx="6" ry="6" x="686" y="192" width="28" height="26" class="combo"/>
-<use href="#mdi:mouse-scroll-wheel" xlink:href="#mdi:mouse-scroll-wheel" x="691" y="196" height="18" width="18.0" class="combo tap glyph mdi:mouse-scroll-wheel"/>
-</g>
-<g class="combo combopos-3">
 <path d="M700,210 l-37,0" class="combo"/>
 <path d="M700,210 l37,0" class="combo"/>
 <rect rx="6" ry="6" x="686" y="197" width="28" height="26" class="combo"/>
 <a href="#SCROLL">
 <text x="700" y="210" class="combo tap layer-activator">SCROLL</text>
 </a></g>
-<g class="combo combopos-4">
-<path d="M588,217 l-37,2" class="combo"/>
-<path d="M588,217 l37,-5" class="combo"/>
-<rect rx="6" ry="6" x="574" y="204" width="28" height="26" class="combo"/>
-<text x="588" y="217" class="combo tap">
-<tspan x="588" dy="-0.6em">&amp;mkp</tspan><tspan x="588" dy="1.2em">MB4</tspan>
-</text>
-</g>
-<g class="combo combopos-5">
-<path d="M644,209 l-38,8" class="combo"/>
-<path d="M644,209 l38,-9" class="combo"/>
-<rect rx="6" ry="6" x="630" y="196" width="28" height="26" class="combo"/>
-<text x="644" y="209" class="combo tap">
-<tspan x="644" dy="-0.6em">&amp;mkp</tspan><tspan x="644" dy="1.2em">MB5</tspan>
-</text>
-</g>
 </g>
 </g>
 <g transform="translate(40, 398)" class="layer-NUM">
@@ -941,41 +923,23 @@ rect.held, rect.combo.held {
 </g>
 <g class="combo combopos-0">
 <rect rx="6" ry="6" x="658" y="190" width="28" height="26" class="combo"/>
-<use href="#mdi:mouse-left-click-outline" xlink:href="#mdi:mouse-left-click-outline" x="663" y="194" height="18" width="18.0" class="combo tap glyph mdi:mouse-left-click-outline"/>
+<text x="672" y="203" class="combo tap">
+<tspan x="672" dy="-0.6em">&amp;mkp</tspan><tspan x="672" dy="1.2em">MB4</tspan>
+</text>
 </g>
 <g class="combo combopos-1">
 <rect rx="6" ry="6" x="714" y="190" width="28" height="26" class="combo"/>
-<use href="#mdi:mouse-right-click-outline" xlink:href="#mdi:mouse-right-click-outline" x="719" y="194" height="18" width="18.0" class="combo tap glyph mdi:mouse-right-click-outline"/>
+<text x="728" y="203" class="combo tap">
+<tspan x="728" dy="-0.6em">&amp;mkp</tspan><tspan x="728" dy="1.2em">MB5</tspan>
+</text>
 </g>
 <g class="combo combopos-2">
-<path d="M700,205 l-37,3" class="combo"/>
-<path d="M700,205 l37,3" class="combo"/>
-<rect rx="6" ry="6" x="686" y="192" width="28" height="26" class="combo"/>
-<use href="#mdi:mouse-scroll-wheel" xlink:href="#mdi:mouse-scroll-wheel" x="691" y="196" height="18" width="18.0" class="combo tap glyph mdi:mouse-scroll-wheel"/>
-</g>
-<g class="combo combopos-3">
 <path d="M700,210 l-37,0" class="combo"/>
 <path d="M700,210 l37,0" class="combo"/>
 <rect rx="6" ry="6" x="686" y="197" width="28" height="26" class="combo"/>
 <a href="#SCROLL">
 <text x="700" y="210" class="combo tap layer-activator">SCROLL</text>
 </a></g>
-<g class="combo combopos-4">
-<path d="M588,217 l-37,2" class="combo"/>
-<path d="M588,217 l37,-5" class="combo"/>
-<rect rx="6" ry="6" x="574" y="204" width="28" height="26" class="combo"/>
-<text x="588" y="217" class="combo tap">
-<tspan x="588" dy="-0.6em">&amp;mkp</tspan><tspan x="588" dy="1.2em">MB4</tspan>
-</text>
-</g>
-<g class="combo combopos-5">
-<path d="M644,209 l-38,8" class="combo"/>
-<path d="M644,209 l38,-9" class="combo"/>
-<rect rx="6" ry="6" x="630" y="196" width="28" height="26" class="combo"/>
-<text x="644" y="209" class="combo tap">
-<tspan x="644" dy="-0.6em">&amp;mkp</tspan><tspan x="644" dy="1.2em">MB5</tspan>
-</text>
-</g>
 </g>
 </g>
 <g transform="translate(40, 796)" class="layer-SYM">
@@ -1290,41 +1254,23 @@ rect.held, rect.combo.held {
 </g>
 <g class="combo combopos-0">
 <rect rx="6" ry="6" x="658" y="190" width="28" height="26" class="combo"/>
-<use href="#mdi:mouse-left-click-outline" xlink:href="#mdi:mouse-left-click-outline" x="663" y="194" height="18" width="18.0" class="combo tap glyph mdi:mouse-left-click-outline"/>
+<text x="672" y="203" class="combo tap">
+<tspan x="672" dy="-0.6em">&amp;mkp</tspan><tspan x="672" dy="1.2em">MB4</tspan>
+</text>
 </g>
 <g class="combo combopos-1">
 <rect rx="6" ry="6" x="714" y="190" width="28" height="26" class="combo"/>
-<use href="#mdi:mouse-right-click-outline" xlink:href="#mdi:mouse-right-click-outline" x="719" y="194" height="18" width="18.0" class="combo tap glyph mdi:mouse-right-click-outline"/>
+<text x="728" y="203" class="combo tap">
+<tspan x="728" dy="-0.6em">&amp;mkp</tspan><tspan x="728" dy="1.2em">MB5</tspan>
+</text>
 </g>
 <g class="combo combopos-2">
-<path d="M700,205 l-37,3" class="combo"/>
-<path d="M700,205 l37,3" class="combo"/>
-<rect rx="6" ry="6" x="686" y="192" width="28" height="26" class="combo"/>
-<use href="#mdi:mouse-scroll-wheel" xlink:href="#mdi:mouse-scroll-wheel" x="691" y="196" height="18" width="18.0" class="combo tap glyph mdi:mouse-scroll-wheel"/>
-</g>
-<g class="combo combopos-3">
 <path d="M700,210 l-37,0" class="combo"/>
 <path d="M700,210 l37,0" class="combo"/>
 <rect rx="6" ry="6" x="686" y="197" width="28" height="26" class="combo"/>
 <a href="#SCROLL">
 <text x="700" y="210" class="combo tap layer-activator">SCROLL</text>
 </a></g>
-<g class="combo combopos-4">
-<path d="M588,217 l-37,2" class="combo"/>
-<path d="M588,217 l37,-5" class="combo"/>
-<rect rx="6" ry="6" x="574" y="204" width="28" height="26" class="combo"/>
-<text x="588" y="217" class="combo tap">
-<tspan x="588" dy="-0.6em">&amp;mkp</tspan><tspan x="588" dy="1.2em">MB4</tspan>
-</text>
-</g>
-<g class="combo combopos-5">
-<path d="M644,209 l-38,8" class="combo"/>
-<path d="M644,209 l38,-9" class="combo"/>
-<rect rx="6" ry="6" x="630" y="196" width="28" height="26" class="combo"/>
-<text x="644" y="209" class="combo tap">
-<tspan x="644" dy="-0.6em">&amp;mkp</tspan><tspan x="644" dy="1.2em">MB5</tspan>
-</text>
-</g>
 </g>
 </g>
 <g transform="translate(40, 1195)" class="layer-FUN">
@@ -1641,41 +1587,23 @@ rect.held, rect.combo.held {
 </g>
 <g class="combo combopos-0">
 <rect rx="6" ry="6" x="658" y="190" width="28" height="26" class="combo"/>
-<use href="#mdi:mouse-left-click-outline" xlink:href="#mdi:mouse-left-click-outline" x="663" y="194" height="18" width="18.0" class="combo tap glyph mdi:mouse-left-click-outline"/>
+<text x="672" y="203" class="combo tap">
+<tspan x="672" dy="-0.6em">&amp;mkp</tspan><tspan x="672" dy="1.2em">MB4</tspan>
+</text>
 </g>
 <g class="combo combopos-1">
 <rect rx="6" ry="6" x="714" y="190" width="28" height="26" class="combo"/>
-<use href="#mdi:mouse-right-click-outline" xlink:href="#mdi:mouse-right-click-outline" x="719" y="194" height="18" width="18.0" class="combo tap glyph mdi:mouse-right-click-outline"/>
+<text x="728" y="203" class="combo tap">
+<tspan x="728" dy="-0.6em">&amp;mkp</tspan><tspan x="728" dy="1.2em">MB5</tspan>
+</text>
 </g>
 <g class="combo combopos-2">
-<path d="M700,205 l-37,3" class="combo"/>
-<path d="M700,205 l37,3" class="combo"/>
-<rect rx="6" ry="6" x="686" y="192" width="28" height="26" class="combo"/>
-<use href="#mdi:mouse-scroll-wheel" xlink:href="#mdi:mouse-scroll-wheel" x="691" y="196" height="18" width="18.0" class="combo tap glyph mdi:mouse-scroll-wheel"/>
-</g>
-<g class="combo combopos-3">
 <path d="M700,210 l-37,0" class="combo"/>
 <path d="M700,210 l37,0" class="combo"/>
 <rect rx="6" ry="6" x="686" y="197" width="28" height="26" class="combo"/>
 <a href="#SCROLL">
 <text x="700" y="210" class="combo tap layer-activator">SCROLL</text>
 </a></g>
-<g class="combo combopos-4">
-<path d="M588,217 l-37,2" class="combo"/>
-<path d="M588,217 l37,-5" class="combo"/>
-<rect rx="6" ry="6" x="574" y="204" width="28" height="26" class="combo"/>
-<text x="588" y="217" class="combo tap">
-<tspan x="588" dy="-0.6em">&amp;mkp</tspan><tspan x="588" dy="1.2em">MB4</tspan>
-</text>
-</g>
-<g class="combo combopos-5">
-<path d="M644,209 l-38,8" class="combo"/>
-<path d="M644,209 l38,-9" class="combo"/>
-<rect rx="6" ry="6" x="630" y="196" width="28" height="26" class="combo"/>
-<text x="644" y="209" class="combo tap">
-<tspan x="644" dy="-0.6em">&amp;mkp</tspan><tspan x="644" dy="1.2em">MB5</tspan>
-</text>
-</g>
 </g>
 </g>
 <g transform="translate(40, 1593)" class="layer-MOUSE">
@@ -1988,41 +1916,23 @@ rect.held, rect.combo.held {
 </g>
 <g class="combo combopos-0">
 <rect rx="6" ry="6" x="658" y="190" width="28" height="26" class="combo"/>
-<use href="#mdi:mouse-left-click-outline" xlink:href="#mdi:mouse-left-click-outline" x="663" y="194" height="18" width="18.0" class="combo tap glyph mdi:mouse-left-click-outline"/>
+<text x="672" y="203" class="combo tap">
+<tspan x="672" dy="-0.6em">&amp;mkp</tspan><tspan x="672" dy="1.2em">MB4</tspan>
+</text>
 </g>
 <g class="combo combopos-1">
 <rect rx="6" ry="6" x="714" y="190" width="28" height="26" class="combo"/>
-<use href="#mdi:mouse-right-click-outline" xlink:href="#mdi:mouse-right-click-outline" x="719" y="194" height="18" width="18.0" class="combo tap glyph mdi:mouse-right-click-outline"/>
+<text x="728" y="203" class="combo tap">
+<tspan x="728" dy="-0.6em">&amp;mkp</tspan><tspan x="728" dy="1.2em">MB5</tspan>
+</text>
 </g>
 <g class="combo combopos-2">
-<path d="M700,205 l-37,3" class="combo"/>
-<path d="M700,205 l37,3" class="combo"/>
-<rect rx="6" ry="6" x="686" y="192" width="28" height="26" class="combo"/>
-<use href="#mdi:mouse-scroll-wheel" xlink:href="#mdi:mouse-scroll-wheel" x="691" y="196" height="18" width="18.0" class="combo tap glyph mdi:mouse-scroll-wheel"/>
-</g>
-<g class="combo combopos-3">
 <path d="M700,210 l-37,0" class="combo"/>
 <path d="M700,210 l37,0" class="combo"/>
 <rect rx="6" ry="6" x="686" y="197" width="28" height="26" class="combo"/>
 <a href="#SCROLL">
 <text x="700" y="210" class="combo tap layer-activator">SCROLL</text>
 </a></g>
-<g class="combo combopos-4">
-<path d="M588,217 l-37,2" class="combo"/>
-<path d="M588,217 l37,-5" class="combo"/>
-<rect rx="6" ry="6" x="574" y="204" width="28" height="26" class="combo"/>
-<text x="588" y="217" class="combo tap">
-<tspan x="588" dy="-0.6em">&amp;mkp</tspan><tspan x="588" dy="1.2em">MB4</tspan>
-</text>
-</g>
-<g class="combo combopos-5">
-<path d="M644,209 l-38,8" class="combo"/>
-<path d="M644,209 l38,-9" class="combo"/>
-<rect rx="6" ry="6" x="630" y="196" width="28" height="26" class="combo"/>
-<text x="644" y="209" class="combo tap">
-<tspan x="644" dy="-0.6em">&amp;mkp</tspan><tspan x="644" dy="1.2em">MB5</tspan>
-</text>
-</g>
 </g>
 </g>
 <g transform="translate(40, 1991)" class="layer-SCROLL">
@@ -2332,41 +2242,23 @@ rect.held, rect.combo.held {
 </g>
 <g class="combo combopos-0">
 <rect rx="6" ry="6" x="658" y="190" width="28" height="26" class="combo"/>
-<use href="#mdi:mouse-left-click-outline" xlink:href="#mdi:mouse-left-click-outline" x="663" y="194" height="18" width="18.0" class="combo tap glyph mdi:mouse-left-click-outline"/>
+<text x="672" y="203" class="combo tap">
+<tspan x="672" dy="-0.6em">&amp;mkp</tspan><tspan x="672" dy="1.2em">MB4</tspan>
+</text>
 </g>
 <g class="combo combopos-1">
 <rect rx="6" ry="6" x="714" y="190" width="28" height="26" class="combo"/>
-<use href="#mdi:mouse-right-click-outline" xlink:href="#mdi:mouse-right-click-outline" x="719" y="194" height="18" width="18.0" class="combo tap glyph mdi:mouse-right-click-outline"/>
+<text x="728" y="203" class="combo tap">
+<tspan x="728" dy="-0.6em">&amp;mkp</tspan><tspan x="728" dy="1.2em">MB5</tspan>
+</text>
 </g>
 <g class="combo combopos-2">
-<path d="M700,205 l-37,3" class="combo"/>
-<path d="M700,205 l37,3" class="combo"/>
-<rect rx="6" ry="6" x="686" y="192" width="28" height="26" class="combo"/>
-<use href="#mdi:mouse-scroll-wheel" xlink:href="#mdi:mouse-scroll-wheel" x="691" y="196" height="18" width="18.0" class="combo tap glyph mdi:mouse-scroll-wheel"/>
-</g>
-<g class="combo combopos-3">
 <path d="M700,210 l-37,0" class="combo"/>
 <path d="M700,210 l37,0" class="combo"/>
 <rect rx="6" ry="6" x="686" y="197" width="28" height="26" class="combo"/>
 <a href="#SCROLL">
 <text x="700" y="210" class="combo tap layer-activator">SCROLL</text>
 </a></g>
-<g class="combo combopos-4">
-<path d="M588,217 l-37,2" class="combo"/>
-<path d="M588,217 l37,-5" class="combo"/>
-<rect rx="6" ry="6" x="574" y="204" width="28" height="26" class="combo"/>
-<text x="588" y="217" class="combo tap">
-<tspan x="588" dy="-0.6em">&amp;mkp</tspan><tspan x="588" dy="1.2em">MB4</tspan>
-</text>
-</g>
-<g class="combo combopos-5">
-<path d="M644,209 l-38,8" class="combo"/>
-<path d="M644,209 l38,-9" class="combo"/>
-<rect rx="6" ry="6" x="630" y="196" width="28" height="26" class="combo"/>
-<text x="644" y="209" class="combo tap">
-<tspan x="644" dy="-0.6em">&amp;mkp</tspan><tspan x="644" dy="1.2em">MB5</tspan>
-</text>
-</g>
 </g>
 </g>
 <g transform="translate(40, 2389)" class="layer-SNIPE">
@@ -2679,41 +2571,23 @@ rect.held, rect.combo.held {
 </g>
 <g class="combo combopos-0">
 <rect rx="6" ry="6" x="658" y="190" width="28" height="26" class="combo"/>
-<use href="#mdi:mouse-left-click-outline" xlink:href="#mdi:mouse-left-click-outline" x="663" y="194" height="18" width="18.0" class="combo tap glyph mdi:mouse-left-click-outline"/>
+<text x="672" y="203" class="combo tap">
+<tspan x="672" dy="-0.6em">&amp;mkp</tspan><tspan x="672" dy="1.2em">MB4</tspan>
+</text>
 </g>
 <g class="combo combopos-1">
 <rect rx="6" ry="6" x="714" y="190" width="28" height="26" class="combo"/>
-<use href="#mdi:mouse-right-click-outline" xlink:href="#mdi:mouse-right-click-outline" x="719" y="194" height="18" width="18.0" class="combo tap glyph mdi:mouse-right-click-outline"/>
+<text x="728" y="203" class="combo tap">
+<tspan x="728" dy="-0.6em">&amp;mkp</tspan><tspan x="728" dy="1.2em">MB5</tspan>
+</text>
 </g>
 <g class="combo combopos-2">
-<path d="M700,205 l-37,3" class="combo"/>
-<path d="M700,205 l37,3" class="combo"/>
-<rect rx="6" ry="6" x="686" y="192" width="28" height="26" class="combo"/>
-<use href="#mdi:mouse-scroll-wheel" xlink:href="#mdi:mouse-scroll-wheel" x="691" y="196" height="18" width="18.0" class="combo tap glyph mdi:mouse-scroll-wheel"/>
-</g>
-<g class="combo combopos-3">
 <path d="M700,210 l-37,0" class="combo"/>
 <path d="M700,210 l37,0" class="combo"/>
 <rect rx="6" ry="6" x="686" y="197" width="28" height="26" class="combo"/>
 <a href="#SCROLL">
 <text x="700" y="210" class="combo tap layer-activator">SCROLL</text>
 </a></g>
-<g class="combo combopos-4">
-<path d="M588,217 l-37,2" class="combo"/>
-<path d="M588,217 l37,-5" class="combo"/>
-<rect rx="6" ry="6" x="574" y="204" width="28" height="26" class="combo"/>
-<text x="588" y="217" class="combo tap">
-<tspan x="588" dy="-0.6em">&amp;mkp</tspan><tspan x="588" dy="1.2em">MB4</tspan>
-</text>
-</g>
-<g class="combo combopos-5">
-<path d="M644,209 l-38,8" class="combo"/>
-<path d="M644,209 l38,-9" class="combo"/>
-<rect rx="6" ry="6" x="630" y="196" width="28" height="26" class="combo"/>
-<text x="644" y="209" class="combo tap">
-<tspan x="644" dy="-0.6em">&amp;mkp</tspan><tspan x="644" dy="1.2em">MB5</tspan>
-</text>
-</g>
 </g>
 </g>
 </svg>
