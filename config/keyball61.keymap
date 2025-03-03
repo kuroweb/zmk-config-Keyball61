@@ -28,34 +28,19 @@
     combos {
         compatible = "zmk,combos";
 
-        mouse_left {
-            bindings = <&mkp LCLK>;
+        mouse_prev {
+            bindings = <&mkp MB4>;
             key-positions = <45 46>;
         };
 
-        mouse_right {
-            bindings = <&mkp RCLK>;
+        mouse_next {
+            bindings = <&mkp MB5>;
             key-positions = <46 47>;
-        };
-
-        mouse_middle {
-            bindings = <&mkp MCLK>;
-            key-positions = <45 47 46>;
         };
 
         mouse_scroll {
             bindings = <&mo 5>;
             key-positions = <45 47>;
-        };
-
-        mouse_prev {
-            bindings = <&mkp MB4>;
-            key-positions = <43 44 45>;
-        };
-
-        mouse_next {
-            bindings = <&mkp MB5>;
-            key-positions = <44 45 46>;
         };
     };
 
